@@ -10,4 +10,3 @@ Les solutions sont à rendre dans ce dépôt en deux formats :
 
 Chaque dessin de diagramme est à déposer dans un fichier (`.pdf` ou `.png`) différent.
 
-Pour pouvoir soumettre votre travail, cliquez sur le lien ci-dessous pour cloner ce dépôt : https://classroom.github.com/a/7lvr5v2s
